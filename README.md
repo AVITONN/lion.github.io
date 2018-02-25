@@ -2,7 +2,7 @@
 mebel73
 <html>
 <title>
-hello</title>
+hello my frends </title>
 <head> </head>
 <body>
 <h1>I come back to web developer</h1> 
